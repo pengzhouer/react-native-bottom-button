@@ -136,4 +136,4 @@ You will need to have an Android or iOS device or emulator connected as well as 
 
 ## License
 
-MIT. Copyright (c) 2018 Rafael Caferati.
+MIT. Copyright (c) 2020 Daniel Bryan.
